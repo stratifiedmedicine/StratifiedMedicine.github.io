@@ -1,2 +1,0 @@
-# NICSM
-GitHub Pages
